@@ -1,1 +1,1 @@
-# simple example of how to use React Natigation and consume an API with axios
+# Simple example of how to use React Natigation and consume an API with axios
